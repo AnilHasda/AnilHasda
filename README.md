@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilhasda&label=Profile%20views&color=0e75b6&style=flat" alt="anilhasda" /> </p>
 
-- 🔭 I’m currently working on **Mern Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Mern Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 💬 Ask me about **HTML,CSS,JS,MERN**
 
